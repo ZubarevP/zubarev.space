@@ -1,0 +1,57 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+body {
+  @include  flex-clmn-btw ;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: $black;
+}
+
+a {
+  text-decoration: none;
+  color: $green;
+}
+
+#app {
+  max-width: 920px;
+  margin: 48px 0; 
+  padding: 48px;
+  box-shadow: 0 1px 35px #aaaaaa;
+  display: grid;
+  grid-template-columns: 3fr 1fr 1fr;
+  grid-template-rows: 0.3fr repeat(3, 0.7fr) 0.3fr;
+  grid-gap: 10px;
+ 
+  @media screen and (max-width: 920px) {
+    margin: 0;
+  } 
+    
+  @media screen and (max-width: 550px) {
+    display: flex;
+    flex-direction: column;
+    padding: 48px 24px 24px; 
+  } 
+}
+
+.btn {
+  border: none;
+  padding: 5px 10px;
+  color: $white;
+  background-color: $green;
+
+  &:hover {
+    opacity: .9;
+  }
+
+  & + & {
+    margin-left: 10px;
+  }
+}

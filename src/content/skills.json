@@ -1,0 +1,62 @@
+{
+  "blockname": {
+    "en": "Skills",
+    "ru": "Навыки"
+  },
+  "body": {
+
+    "technical":{
+      "title": {
+        "en": "Technical",
+        "ru": "Технические"
+      },
+      "body": [
+        "JavaScript", 
+        "C++" ,
+        "Node.js",
+        "Vue.js", 
+        "Pinia", 
+        "Vue router", 
+        "HTML", 
+        "CSS", 
+        "SCSS",
+        "Vite", 
+        "WebPack",
+        "Linux",
+        "Windows",
+        "GitHub",
+        "Git",
+        "Figma",
+        "mongoDB",
+        "mongoose",
+        "express.js"
+      ]
+
+    },
+
+    "professional": {
+      "title": {
+        "en": "Professional",
+        "ru": "Профессиональные"
+      },
+      "body": [
+        {
+          "en": "Effective communication", 
+          "ru": "Эффективные переговоры"
+        },
+        {
+          "en": "Strong problem solver", 
+          "ru": "Ответственность"
+        },
+        {
+          "en": "Good time management", 
+          "ru": "Эффективное управление временем"
+        },
+        {
+          "en": "Systems thinking", 
+          "ru": "Системное мышление"
+        }
+      ] 
+    }
+  }
+}

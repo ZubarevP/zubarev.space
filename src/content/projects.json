@@ -1,0 +1,93 @@
+{
+  "blockname": {
+    "en": "Projects",
+    "ru": "Проекты"
+  },
+  "body":[
+
+      {
+        "title": {
+          "en": "momentum",
+          "ru": "momentum"
+        },
+        "tech": "HTML, CSS, JavaScript",
+        "image": {
+          "src": "/assets/image/momentum.webp",
+          "alt": "momentum image"
+        },
+        "date": "2022-08-09",
+        "description": {
+          "en": "",
+          "ru": ""
+        },
+        "link": {
+          "github": "",
+          "deploy": "https://rolling-scopes-school.github.io/zubarevp-JSFEPRESCHOOL2022Q2/momentum/"
+        }
+      },
+
+
+      {
+        "title": {
+          "en": "eldritch horror",
+          "ru": "eldritch horror"
+        },
+        "tech": "HTML, CSS, JavaScript",
+        "image": {
+          "src": "/assets/image/eldritch.webp",
+          "alt": "travel portal image"
+        },
+        "date": "2022-07-18",
+        "description": {
+          "en": "",
+          "ru": ""
+        },
+        "link": {
+          "github": "https://github.com/ZubarevP/codejam-eldritch/tree/horror",
+          "deploy": "https://zubarevp.github.io/codejam-eldritch/codejam-eldritch/"
+        }
+      },
+      
+      {
+        "title": {
+          "en": "first CV",
+          "ru": "first CV"
+        },
+        "tech": "HTML, CSS, JavaScript",
+        "image": {
+          "src": "/assets/image/first_cv.webp",
+          "alt": "cv image"
+        },
+        "date": "2022-09-01",
+        "description": {
+          "en": "",
+          "ru": ""
+        },
+        "link": {
+          "github": "https://github.com/ZubarevP/rsschool-cv",
+          "deploy": "https://zubarevp.github.io/rsschool-cv/"
+        }
+      },
+
+      {
+        "title": {
+          "en": "travel portal",
+          "ru": "travel portal"
+        },
+        "tech": "HTML, CSS, JavaScript",
+        "image": {
+          "src": "/assets/image/travel_portal.webp",
+          "alt": "travel portal image"
+        },
+        "date": "2022-07-18",
+        "description": {
+          "en": "",
+          "ru": ""
+        },
+        "link": {
+          "github": "",
+          "deploy": "https://rolling-scopes-school.github.io/zubarevp-JSFEPRESCHOOL2022Q2/travel/"
+        }
+      }
+  ] 
+}

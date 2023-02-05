@@ -1,0 +1,28 @@
+{
+  "blockname": {
+    "en": "Languages",
+    "ru": "Языки"
+  },
+  "body": [
+    {
+      "title": {
+        "en": "English",
+        "ru": "Английский"
+      },
+      "level": {
+        "en": "A2",
+        "ru": "A2"
+      }
+    },
+    {
+      "title": {
+        "en": "Russian",
+        "ru": "Русский"
+      },
+      "level": {
+        "en": "Native",
+        "ru": "Родной"
+      }
+    }
+  ]
+}

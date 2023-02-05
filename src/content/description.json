@@ -1,0 +1,18 @@
+{
+  "block-name": {
+    "en": "Description",
+    "ru": "Описание"
+  },
+  "body": {
+
+    "photo": {
+       "link": "/avatar.webp",
+       "alt": "Pavel's photo"
+    },
+
+    "text": {
+      "en": "I am a junior Front-End developer. I am looking forward to working in teams as well as individually. I am not only willing to deepen my knowledge but I also want to apply them to the real products.",
+      "ru": "Я начинающий Front-End разработчик. Я с нетерпением жду возможности поработать как в команде, так и индивидуально. Я не только хочу углублять свои знания, но и хочу применить их к реальным продуктам."
+    }
+  }
+}

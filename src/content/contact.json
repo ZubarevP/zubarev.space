@@ -1,0 +1,41 @@
+{
+  "block-name": {
+    "en": "Contact",
+    "ru": "Контакты"
+  },
+  "body": {
+
+    "email": {
+      "value": "mailto:zubarev.p@yahoo.com",
+      "name": {
+        "en": "zubarev.p@yahoo.com",
+        "ru": "zubarev.p@yahoo.com"
+      }
+    },
+
+    "telegram": {
+      "value": "https://t.me/zubarevp",
+      "name": {
+        "en": "@zubarevp",
+        "ru": "@zubarevp"
+      }
+    },
+
+    "github": {
+      "value": "https://github.com/zubarevp",
+      "name": {
+        "en": "GitHub",
+        "ru": "GitHub"
+      }
+    },
+
+    "location": {
+      "value":"https://www.google.ru/maps/place/Kaliningrad,+Kaliningrad+Oblast/@54.7116095,20.46453,12z/data=!3m1!4b1!4m5!3m4!1s0x46e33d8d4b7c21a9:0x5050960016126ed3!8m2!3d54.7104264!4d20.4522144",
+      "name":{
+        "en": "Moscow, Russia",
+        "ru": "Москва, Россия"
+      }
+    }
+
+  }
+}

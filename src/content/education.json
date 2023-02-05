@@ -1,0 +1,33 @@
+{
+  "blockname": {
+    "en": "Education",
+    "ru": "Образование"
+  },
+  "body": [
+
+    {
+      "year": "2008 - 2009",
+      "title": {
+        "en": "Moscow Psychology and Social Institute",
+        "ru": "Московский Психолого-Социальный Институт"
+      },
+      "faculty": {
+        "en": "Faculty of CIvil Law",
+        "ru": "Факультет гражданского права"
+      }
+    },
+
+    {
+      "year": "2004 - 2008",
+      "title": {
+        "en": "Military University of the Ministry of Defense of Russian Federation",
+        "ru": "Военный Университет Министерства Обороны Российской Федерации"
+      },
+      "faculty": {
+        "en": "Faculty of CIvil Law",
+        "ru": "Факультет гражданского права"
+      }
+    }
+
+  ]
+}
