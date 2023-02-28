@@ -71,6 +71,27 @@
 
       {
         "title": {
+          "en": "ToDo list",
+          "ru": "ToDo list Эйзенхаура"
+        },
+        "tech": "HTML, CSS, JavaScript, Vue 3, Pinia, Exceljs, Drag'n'drop",
+        "image": {
+          "src": "/assets/image/todo.webp",
+          "alt": "todo list image"
+        },
+        "date": "2023-02-28",
+        "description": {
+          "en": "",
+          "ru": ""
+        },
+        "link": {
+          "github": "https://github.com/ZubarevP/ToDoList",
+          "deploy": "https://deft-mermaid-1e3d67.netlify.app/"
+        }
+      },
+
+      {
+        "title": {
           "en": "travel portal",
           "ru": "travel portal"
         },
